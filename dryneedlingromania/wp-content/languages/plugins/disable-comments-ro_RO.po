@@ -1,0 +1,271 @@
+# Translation of Plugins - Disable Comments &#8211; Remove Comments &amp; Stop Spam [Multi-Site Support] - Stable (latest release) in Romanian
+# This file is distributed under the same license as the Plugins - Disable Comments &#8211; Remove Comments &amp; Stop Spam [Multi-Site Support] - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-09-22 13:14:08+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n == 1) ? 0 : ((n == 0 || n % 100 >= 2 && n % 100 <= 19) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.0-alpha.1\n"
+"Language: ro\n"
+"Project-Id-Version: Plugins - Disable Comments &#8211; Remove Comments &amp; Stop Spam [Multi-Site Support] - Stable (latest release)\n"
+
+#: views/settings.php:12
+msgctxt "Tab Name"
+msgid "Delete Comments"
+msgstr "Șterge comentariile"
+
+#: views/settings.php:9
+msgctxt "Tab Name"
+msgid "Disable Comments"
+msgstr "Dezactivează comentariile"
+
+#: views/partials/_disable.php:158
+msgid "Disable Comments via REST API"
+msgstr "Dezactivează comentariile via REST API"
+
+#: views/partials/_sidebar.php:3
+msgid "Read Our Tutorials"
+msgstr "Citește tutorialele noastre"
+
+#: views/partials/_delete.php:50
+msgid "Delete Certain Comment Types:"
+msgstr "Șterge anumite tipuri de comentariu:"
+
+#: views/partials/_delete.php:23 views/partials/_delete.php:46
+#: views/partials/_delete.php:59 views/partials/_delete.php:64
+#: views/partials/_disable.php:41
+msgid "Warnings:"
+msgstr "Avertizări:"
+
+#: views/partials/_delete.php:22
+msgid "Permanently delete all comments on your WordPress website"
+msgstr "Șterge definitiv toate comentariile de pe site-ul tău WordPress"
+
+#: views/partials/_disable.php:149
+msgid "Disable Comments via XML-RPC"
+msgstr "Dezactivează comentariile via XML-RPC"
+
+#: views/partials/_disable.php:138
+msgid "Disable Comments With API"
+msgstr "Dezactivează comentariile via API"
+
+#: views/partials/_disable.php:139
+msgid "You can disable comments made on your website using WordPress specifications."
+msgstr "Poți dezactiva comentariile făcute pe site-ul tău web folosind specificațiile WordPress."
+
+#: views/partials/_disable.php:40
+msgid "Disable comments globally on your entire website"
+msgstr "Dezactivează comentariile la nivel global, pe tot site-ul tău web"
+
+#: views/partials/_sidebar.php:128
+msgid "Disable Comments For WordPress Pages"
+msgstr "Dezactivează comentariile pe paginile WordPress"
+
+#: views/partials/_menu.php:5
+msgid "Support Forum"
+msgstr "Forum pentru suport"
+
+#: views/partials/_menu.php:4
+msgid "All Plugins"
+msgstr "Toate modulele"
+
+#: views/partials/_menu.php:3
+msgid "About Us"
+msgstr "Despre noi"
+
+#: includes/class-plugin-usage-tracker.php:860
+msgid "Just Deactivate"
+msgstr "Doar dezactivează"
+
+#: includes/class-plugin-usage-tracker.php:860
+msgid "Submit and Deactivate"
+msgstr "Trimite și dezactivează"
+
+#: includes/class-plugin-usage-tracker.php:802
+msgid "Submitting form"
+msgstr "Formular de trimitere"
+
+#: includes/class-plugin-usage-tracker.php:760
+msgid "Please share the reason"
+msgstr "Te rog spune-ne motivul"
+
+#: includes/class-plugin-usage-tracker.php:757
+msgid "It's a temporary deactivation"
+msgstr "Este o dezactivare temporară"
+
+#: includes/class-plugin-usage-tracker.php:756
+msgid "I couldn't get the plugin to work"
+msgstr "Nu am putut face modulul să funcționeze"
+
+#: includes/class-plugin-usage-tracker.php:754
+msgid "Please share which plugin"
+msgstr "Te rog spune care modul"
+
+#: includes/class-plugin-usage-tracker.php:753
+msgid "I found a better plugin"
+msgstr "Am găsit un modul mai bun"
+
+#: includes/class-plugin-usage-tracker.php:751
+msgid "I no longer need the plugin"
+msgstr "Nu mai am nevoie de modul"
+
+#: includes/class-plugin-usage-tracker.php:748
+msgid "Before you deactivate the plugin, would you quickly give us your reason for doing so?"
+msgstr "Înainte de a dezactiva modulul, vrei să ne spui motivul pentru care faci asta?"
+
+#: includes/class-plugin-usage-tracker.php:747
+msgid "Sorry to see you go"
+msgstr "Ne pare rău că pleci"
+
+#: includes/class-plugin-usage-tracker.php:654
+msgid "No Thanks."
+msgstr "Nu, mulțumesc."
+
+#: includes/class-plugin-usage-tracker.php:759
+msgid "Other"
+msgstr "Altul"
+
+#: includes/class-plugin-usage-tracker.php:652
+msgid "What we collect."
+msgstr "Ce date colectăm."
+
+#: includes/cli.php:176
+msgid "Disable Comments via REST API. "
+msgstr "Dezactivează comentariile via REST API."
+
+#: includes/cli.php:167
+msgid "Disable Comments via XML-RPC. "
+msgstr "Dezactivează comentariile via XML-RPC. "
+
+#. translators: %s: post types to be enabled
+#: includes/cli.php:150
+msgid "Comments enabled for %s. "
+msgstr "Comentariile sunt activate pentru %s."
+
+#. translators: %s: post types to be disabled
+#: includes/cli.php:141 includes/cli.php:145
+msgid "Comments disabled for %s. "
+msgstr "Comentariile sunt dezactivate pentru %s."
+
+#: includes/cli.php:135
+msgid "Comments is disabled everywhere. "
+msgstr "Comentariile sunt dezactivate peste tot."
+
+#. translators: %s: post types to be disabled in network
+#: includes/cli.php:161
+msgid "Custom post types: %s. "
+msgstr "Tipuri de articol personalizat: %s"
+
+#: views/partials/_delete.php:15 views/partials/_delete.php:19
+#: views/partials/_disable.php:19 views/partials/_disable.php:28
+#: views/partials/_disable.php:33 views/partials/_disable.php:64
+#: views/partials/_disable.php:91 views/partials/_disable.php:107
+#: views/partials/_disable.php:132
+msgid "Note:"
+msgstr "Notă:"
+
+#: views/partials/_menu.php:8
+msgid "Privacy"
+msgstr "Confidențialitate"
+
+#: views/partials/_menu.php:7
+msgid "Terms Of Service"
+msgstr "Termenii de utilizare ai serviciului"
+
+#: disable-comments.php:827
+msgid "Default (no type)"
+msgstr "Implicit (niciun tip)"
+
+#: disable-comments.php:752
+msgctxt "settings menu title"
+msgid "Disable Comments"
+msgstr "Dezactivează comentariile"
+
+#: views/partials/_delete.php:66
+msgid "Total Comments:"
+msgstr "Total comentarii:"
+
+#: disable-comments.php:1113 disable-comments.php:1117
+msgid "Internal error occured. Please try again later."
+msgstr "A apărut o eroare internă. Te rog reîncearcă mai târziu."
+
+#: views/partials/_delete.php:43 views/partials/_disable.php:61
+msgid "Custom post types:"
+msgstr "Tipuri de articol personalizat:"
+
+#: disable-comments.php:762 views/partials/_delete.php:72
+#: assets/js/disable-comments-settings-scripts.js:336
+msgid "Delete Comments"
+msgstr "Șterge comentariile"
+
+#: disable-comments.php:743
+msgid "Tools"
+msgstr "Unelte"
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/disable-comments/"
+msgstr "https://wordpress.org/plugins/disable-comments/"
+
+#: views/partials/_disable.php:167
+msgid "Save Changes"
+msgstr "Salvează modificările"
+
+#: views/partials/_delete.php:42 views/partials/_disable.php:60
+msgid "Only the built-in post types appear above. If you want to disable comments on other custom post types on the entire network, you can supply a comma-separated list of post types below (use the slug that identifies the post type)."
+msgstr "Numai tipurile de articole incorporate apar mai sus. Dacă vrei să dezactivezi comentariile pentru alte tipuri de articole personalizate în întreaga rețea, poți folosi o virgulă pentru separarea tipurilor de articole din lista de mai jos (utilizează descriptorul care identifică tipul de articol)."
+
+#. Plugin Name of the plugin
+#: disable-comments.php:363
+msgid "Disable Comments"
+msgstr "Dezactivează comentariile"
+
+#: disable-comments.php:742 views/partials/_disable.php:3
+msgid "Settings"
+msgstr "Setări"
+
+#. translators: %s: disabled post types.
+#: disable-comments.php:618
+msgid ", "
+msgstr ","
+
+#. translators: %s: disabled post types.
+#: disable-comments.php:618
+msgid "Note: The <em>Disable Comments</em> plugin is currently active, and comments are completely disabled on: %s. Many of the settings below will not be applicable for those post types."
+msgstr "Notă: modulul <em>Dezactivează comentariile</em> este în prezent activ și comentariile sunt complet dezactivate pe: %s. Multe dintre setările de mai jos nu pot fi aplicate pentru aceste tipuri de articole."
+
+#: disable-comments.php:511 disable-comments.php:662 disable-comments.php:669
+msgid "Comments are closed."
+msgstr "Comentariile sunt oprite."
+
+#. translators: %s: WordPress version no.
+#: disable-comments.php:168
+msgid "Disable Comments requires WordPress version %s or greater."
+msgstr "Dezactivează comentariile necesită versiunea WordPress %s sau o versiune ulterioară."
+
+#: views/partials/_delete.php:210
+msgid "No comments are available for deletion."
+msgstr "Nu este disponibil niciun comentariu pentru ștergere."
+
+#: views/partials/_delete.php:27
+msgid "On Certain Post Types:"
+msgstr "Pentru anumite tipuri de articol:"
+
+#: views/partials/_delete.php:22 views/partials/_disable.php:40
+msgid "Everywhere:"
+msgstr "Peste tot:"
+
+#. translators: %s: URL to Disabled Comment settings page.
+#: disable-comments.php:653
+msgid "The <strong>Disable Comments</strong> plugin is active, but isn't configured to do anything yet. Visit the <a href=\"%s\">configuration page</a> to choose which post types to disable comments on."
+msgstr "Modulul <strong>Dezactivează comentariile</strong> este activ, dar încă nu este configurat să facă nimic. Vezi <a href=\"%s\">pagina de configurare</a> pentru a alege tipurile de articol pentru care vrei să dezactivezi comentariile."
+
+#: disable-comments.php:1111 disable-comments.php:1145
+#: disable-comments.php:1168
+msgid "All comments have been deleted"
+msgstr "Au fost șterse toate comentariile"
+
+#. Author of the plugin
+msgid "WPDeveloper"
+msgstr "WPDeveloper"

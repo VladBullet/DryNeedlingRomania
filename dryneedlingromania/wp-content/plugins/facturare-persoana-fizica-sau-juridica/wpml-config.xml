@@ -1,0 +1,27 @@
+<wpml-config>
+	<admin-texts>
+		<key name="av_facturare">
+			<key name="facturare_pers_fiz_label" />
+			<key name="facturare_pers_fiz_cnp_label" />
+			<key name="facturare_pers_fiz_cnp_placeholder" />
+			<key name="facturare_pers_fiz_cnp_error" />
+			<key name="facturare_pers_jur_label" />
+			<key name="facturare_pers_jur_company_label" />
+			<key name="facturare_pers_jur_company_placeholder" />
+			<key name="facturare_pers_jur_company_error" />
+			<key name="facturare_pers_jur_cui_label" />
+			<key name="facturare_pers_jur_cui_placeholder" />
+			<key name="facturare_pers_jur_cui_error" />
+			<key name="facturare_pers_jur_nr_reg_com_label" />
+			<key name="facturare_pers_jur_nr_reg_com_placeholder" />
+			<key name="facturare_pers_jur_nr_reg_com_error" />
+			<key name="facturare_pers_jur_nume_banca_label" />
+			<key name="facturare_pers_jur_nume_banca_placeholder" />
+			<key name="facturare_pers_jur_nume_banca_error" />
+			<key name="facturare_pers_jur_iban_label" />
+			<key name="facturare_pers_jur_iban_placeholder" />
+			<key name="facturare_pers_jur_iban_error" />
+			<key name="facturare_label" />
+		</key>
+	</admin-texts>
+</wpml-config>

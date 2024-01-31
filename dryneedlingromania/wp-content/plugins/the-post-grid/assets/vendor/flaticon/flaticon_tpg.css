@@ -1,0 +1,94 @@
+/* TODO: 1. replace "flaticon" to "flaticon-tpg-tpg"i[class^="flaticon-tpg-tpg-"]:before */
+
+@font-face {
+    font-family: "flaticon_tpg";
+    src: url("./flaticon_tpg.ttf?e26fbf2a88f239413a6d62e65de90f88") format("truetype"),
+    url("./flaticon_tpg.woff?e26fbf2a88f239413a6d62e65de90f88") format("woff"),
+    url("./flaticon_tpg.woff2?e26fbf2a88f239413a6d62e65de90f88") format("woff2"),
+    url("./flaticon_tpg.eot?e26fbf2a88f239413a6d62e65de90f88#iefix") format("embedded-opentype"),
+    url("./flaticon_tpg.svg?e26fbf2a88f239413a6d62e65de90f88#flaticon_tpg") format("svg");
+}
+
+i[class^="flaticon-tpg-"]:before, i[class*=" flaticon-tpg-"]:before {
+    font-family: flaticon_tpg !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon-tpg-user:before {
+    content: "\f101";
+}
+.flaticon-tpg-calendar:before {
+    content: "\f102";
+}
+.flaticon-tpg-tag:before {
+    content: "\f103";
+}
+.flaticon-tpg-folder:before {
+    content: "\f104";
+}
+.flaticon-tpg-chat:before {
+    content: "\f105";
+}
+.flaticon-tpg-chat-1:before {
+    content: "\f106";
+}
+.flaticon-tpg-view:before {
+    content: "\f107";
+}
+.flaticon-tpg-facebook:before {
+    content: "\f108";
+}
+.flaticon-tpg-twitter:before {
+    content: "\f109";
+}
+.flaticon-tpg-instagram:before {
+    content: "\f10a";
+}
+.flaticon-tpg-youtube:before {
+    content: "\f10b";
+}
+.flaticon-tpg-google-plus:before {
+    content: "\f10c";
+}
+.flaticon-tpg-left:before {
+    content: "\f10d";
+}
+.flaticon-tpg-next:before {
+    content: "\f10e";
+}
+.flaticon-tpg-right-arrow:before {
+    content: "\f10f";
+}
+.flaticon-tpg-right:before {
+    content: "\f110";
+}
+.flaticon-tpg-pinterest:before {
+    content: "\f111";
+}
+.flaticon-tpg-email:before {
+    content: "\f112";
+}
+.flaticon-tpg-mail:before {
+    content: "\f113";
+}
+.flaticon-tpg-add:before {
+    content: "\f114";
+}
+.flaticon-tpg-plus:before {
+    content: "\f115";
+}
+.flaticon-tpg-linkedin:before {
+    content: "\f116";
+}
+.flaticon-tpg-reddit:before {
+    content: "\f117";
+}
+.flaticon-tpg-left-arrow:before {
+    content: "\f118";
+}

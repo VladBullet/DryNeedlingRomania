@@ -1,0 +1,18 @@
+2024-01-17T14:49:21+00:00 CRITICAL Uncaught Error: Call to undefined function tp_event_login_url() in /home/r104848dryn/public_html/wp-content/plugins/wp-events-manager/inc/class-wpems-ajax.php:225
+Stack trace:
+#0 /home/r104848dryn/public_html/wp-includes/class-wp-hook.php(324): WPEMS_Ajax->must_login('')
+#1 /home/r104848dryn/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 /home/r104848dryn/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/r104848dryn/public_html/wp-admin/admin-ajax.php(203): do_action('wp_ajax_nopriv_...')
+#4 {main}
+  thrown în /home/r104848dryn/public_html/wp-content/plugins/wp-events-manager/inc/class-wpems-ajax.php pe linia 225
+
+2024-01-17T14:49:22+00:00 CRITICAL Uncaught Error: Call to undefined function tp_event_login_url() in /home/r104848dryn/public_html/wp-content/plugins/wp-events-manager/inc/class-wpems-ajax.php:225
+Stack trace:
+#0 /home/r104848dryn/public_html/wp-includes/class-wp-hook.php(324): WPEMS_Ajax->must_login('')
+#1 /home/r104848dryn/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 /home/r104848dryn/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/r104848dryn/public_html/wp-admin/admin-ajax.php(203): do_action('wp_ajax_nopriv_...')
+#4 {main}
+  thrown în /home/r104848dryn/public_html/wp-content/plugins/wp-events-manager/inc/class-wpems-ajax.php pe linia 225
+

@@ -1,0 +1,55 @@
+1.0.0
+* adaugarea cupoanelor pe factura
+* adaugarea discounturilor produselor aflate la promotie pe factura
+* adaugarea taxelor suplimentare pe factura
+* adaugat integrare cu https://wordpress.org/plugins/yith-woocommerce-product-bundles/
+* adaugare setari pentru emitent
+* adaugare sincronizare Gestiune
+
+0.9.1
+* verificat inainte daca woocommerce este instalat.
+* adaugat optiunea de a selecta din ce gestiune face parte un produs.
+* reparat bug-ul la fortarea facturii cand se trimite email.
+* adaugat optiunea de a sterge din baza de date factura pentru a putea regenera o noua factura.
+* adaugat buton de generat factura in lista de comenzi
+
+0.9.0
+* reparat trimiterea judetelor pentru clienti
+* reparat "inherit" tax class
+
+0.8.0
+* reparat generarea automata a facturilor si a facturilor storno
+* reparat stornarea transportului
+
+0.7.0
+* reparat bug la generare automata proforma
+* reparat bug la adaugarea proformei in email
+* reparat bug pentru facturile/proforme cu discounturi
+
+0.6.0
+* posibilitatea de a avea si produse fara gestiune pe o factura cu gestiune
+
+0.5.0
+* adaugare optiune pentru observatii
+* adaugare optiune pentru schimbat denumirea serviciului transport pe factura
+* fix bug gestiune
+
+0.4.0
+* adaugare proforma
+* adaugare gestiune
+* adaugare de mesaje de eroare
+* logarea tuturor evenimentele pentru debug
+
+0.3.0
+* refacut cum era calculat transportul.
+* adugat sa treaca comanda in completed dupa ce e incasata factura.
+* rezolvat bug anulare comanda
+
+0.2.0
+* reparat să nu mai apară că pluginul are un update
+* implementare stornare
+* îmbunătățit acțiunile în masă pentru a nu fi blocat de serverul SmartBill
+* posibilitatea de adăugare de mențiuni la factură.
+
+0.1.0
+* lansare

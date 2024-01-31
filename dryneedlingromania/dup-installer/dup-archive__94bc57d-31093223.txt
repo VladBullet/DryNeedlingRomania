@@ -1,0 +1,1393 @@
+{
+    "dup_type": "lite",
+    "created": "2024-01-31 09:32:23",
+    "version_dup": "1.5.8",
+    "version_wp": "6.4.3",
+    "version_db": "10.3.35",
+    "version_php": "7.4.33",
+    "version_os": "Linux",
+    "blogname": "Dry Needling Romania",
+    "exportOnlyDB": 0,
+    "secure_on": 0,
+    "secure_pass": "$2a$08$s4HXKDJ0oXvF3q\/yej9QfOMHrO0vgEERG0ejZR.uxeNSHUBoLRPwS",
+    "dbhost": null,
+    "dbname": null,
+    "dbuser": null,
+    "cpnl_host": null,
+    "cpnl_user": null,
+    "cpnl_pass": null,
+    "cpnl_enable": null,
+    "wp_tableprefix": "wp9s_",
+    "mu_mode": 0,
+    "mu_generation": 0,
+    "mu_siteadmins": [
+        "admin"
+    ],
+    "subsites": [
+        {
+            "id": 1,
+            "domain": "dryneedlingromania.ro",
+            "path": "\/",
+            "blogname": "Dry Needling Romania",
+            "blog_prefix": "wp9s_",
+            "filteredTables": [],
+            "adminUsers": [
+                {
+                    "ID": "15",
+                    "user_login": "alexmazareanu",
+                    "id": "15"
+                },
+                {
+                    "ID": "456",
+                    "user_login": "teodor",
+                    "id": "456"
+                },
+                {
+                    "ID": "477",
+                    "user_login": "Vlad Bulete",
+                    "id": "477"
+                }
+            ],
+            "fullHomeUrl": "https:\/\/dryneedlingromania.ro",
+            "fullSiteUrl": "https:\/\/dryneedlingromania.ro",
+            "uploadPath": "wp-content\/uploads",
+            "fullUploadPath": "\/home\/r104848dryn\/public_html\/wp-content\/uploads",
+            "fullUploadSafePath": "\/home\/r104848dryn\/public_html\/wp-content\/uploads",
+            "fullUploadUrl": "https:\/\/dryneedlingromania.ro\/wp-content\/uploads",
+            "filteredPaths": []
+        }
+    ],
+    "main_site_id": 1,
+    "mu_is_filtered": false,
+    "license_limit": 0,
+    "license_type": 0,
+    "dbInfo": {
+        "buildMode": "MYSQLDUMP",
+        "charSetList": [
+            "utf8mb4",
+            "latin1",
+            "utf8"
+        ],
+        "collationList": [
+            "latin1_swedish_ci",
+            "utf8_general_ci",
+            "utf8mb4_unicode_520_ci",
+            "utf8mb4_unicode_ci"
+        ],
+        "engineList": [
+            "InnoDB"
+        ],
+        "isTablesUpperCase": 0,
+        "isNameUpperCase": 0,
+        "name": "r104848dryn_zizin",
+        "tablesBaseCount": 97,
+        "tablesFinalCount": 97,
+        "muFilteredTableCount": 0,
+        "tablesRowCount": 45488,
+        "tablesSizeOnDisk": 42729472,
+        "tablesList": {
+            "wp9s_actionscheduler_actions": {
+                "inaccurateRows": 120,
+                "insertedRows": 122,
+                "size": 196608
+            },
+            "wp9s_actionscheduler_claims": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "wp9s_actionscheduler_groups": {
+                "inaccurateRows": 4,
+                "insertedRows": 6,
+                "size": 32768
+            },
+            "wp9s_actionscheduler_logs": {
+                "inaccurateRows": 315,
+                "insertedRows": 358,
+                "size": 98304
+            },
+            "wp9s_commentmeta": {
+                "inaccurateRows": 82,
+                "insertedRows": 419,
+                "size": 49152
+            },
+            "wp9s_comments": {
+                "inaccurateRows": 279,
+                "insertedRows": 1336,
+                "size": 212992
+            },
+            "wp9s_duplicator_packages": {
+                "inaccurateRows": 1,
+                "insertedRows": 1,
+                "size": 32768
+            },
+            "wp9s_e_events": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "wp9s_e_submissions": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 294912
+            },
+            "wp9s_e_submissions_actions_log": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 131072
+            },
+            "wp9s_e_submissions_values": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wp9s_learnpress_files": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 65536
+            },
+            "wp9s_learnpress_order_itemmeta": {
+                "inaccurateRows": 144,
+                "insertedRows": 240,
+                "size": 65536
+            },
+            "wp9s_learnpress_order_items": {
+                "inaccurateRows": 31,
+                "insertedRows": 60,
+                "size": 65536
+            },
+            "wp9s_learnpress_question_answermeta": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "wp9s_learnpress_question_answers": {
+                "inaccurateRows": 462,
+                "insertedRows": 462,
+                "size": 131072
+            },
+            "wp9s_learnpress_quiz_questions": {
+                "inaccurateRows": 131,
+                "insertedRows": 131,
+                "size": 49152
+            },
+            "wp9s_learnpress_sections": {
+                "inaccurateRows": 7,
+                "insertedRows": 8,
+                "size": 32768
+            },
+            "wp9s_learnpress_section_items": {
+                "inaccurateRows": 37,
+                "insertedRows": 37,
+                "size": 32768
+            },
+            "wp9s_learnpress_sessions": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "wp9s_learnpress_user_itemmeta": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 65536
+            },
+            "wp9s_learnpress_user_items": {
+                "inaccurateRows": 115,
+                "insertedRows": 136,
+                "size": 131072
+            },
+            "wp9s_learnpress_user_item_results": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "wp9s_links": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "wp9s_options": {
+                "inaccurateRows": 966,
+                "insertedRows": 980,
+                "size": 5603328
+            },
+            "wp9s_pmpro_discount_codes": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 65536
+            },
+            "wp9s_pmpro_discount_codes_levels": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "wp9s_pmpro_discount_codes_uses": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wp9s_pmpro_memberships_categories": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "wp9s_pmpro_memberships_pages": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "wp9s_pmpro_memberships_users": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 114688
+            },
+            "wp9s_pmpro_membership_levelmeta": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wp9s_pmpro_membership_levels": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 65536
+            },
+            "wp9s_pmpro_membership_ordermeta": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wp9s_pmpro_membership_orders": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 229376
+            },
+            "wp9s_postmeta": {
+                "inaccurateRows": 24080,
+                "insertedRows": 36443,
+                "size": 15024128
+            },
+            "wp9s_posts": {
+                "inaccurateRows": 2795,
+                "insertedRows": 2323,
+                "size": 13287424
+            },
+            "wp9s_revslider_css": {
+                "inaccurateRows": 109,
+                "insertedRows": 109,
+                "size": 147456
+            },
+            "wp9s_revslider_css_bkp": {
+                "inaccurateRows": 47,
+                "insertedRows": 47,
+                "size": 32768
+            },
+            "wp9s_revslider_layer_animations": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 16384
+            },
+            "wp9s_revslider_layer_animations_bkp": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 16384
+            },
+            "wp9s_revslider_navigations": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 16384
+            },
+            "wp9s_revslider_navigations_bkp": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 16384
+            },
+            "wp9s_revslider_sliders": {
+                "inaccurateRows": 0,
+                "insertedRows": 1,
+                "size": 32768
+            },
+            "wp9s_revslider_sliders_bkp": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "wp9s_revslider_slides": {
+                "inaccurateRows": 0,
+                "insertedRows": 1,
+                "size": 32768
+            },
+            "wp9s_revslider_slides_bkp": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "wp9s_revslider_static_slides": {
+                "inaccurateRows": 0,
+                "insertedRows": 1,
+                "size": 32768
+            },
+            "wp9s_revslider_static_slides_bkp": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "wp9s_termmeta": {
+                "inaccurateRows": 108,
+                "insertedRows": 111,
+                "size": 49152
+            },
+            "wp9s_terms": {
+                "inaccurateRows": 68,
+                "insertedRows": 68,
+                "size": 49152
+            },
+            "wp9s_term_relationships": {
+                "inaccurateRows": 182,
+                "insertedRows": 183,
+                "size": 32768
+            },
+            "wp9s_term_taxonomy": {
+                "inaccurateRows": 64,
+                "insertedRows": 68,
+                "size": 49152
+            },
+            "wp9s_thim_cache": {
+                "inaccurateRows": 151,
+                "insertedRows": 156,
+                "size": 65536
+            },
+            "wp9s_usermeta": {
+                "inaccurateRows": 11080,
+                "insertedRows": 14475,
+                "size": 2408448
+            },
+            "wp9s_users": {
+                "inaccurateRows": 350,
+                "insertedRows": 503,
+                "size": 131072
+            },
+            "wp9s_wc_admin_notes": {
+                "inaccurateRows": 80,
+                "insertedRows": 147,
+                "size": 65536
+            },
+            "wp9s_wc_admin_note_actions": {
+                "inaccurateRows": 187,
+                "insertedRows": 187,
+                "size": 81920
+            },
+            "wp9s_wc_category_lookup": {
+                "inaccurateRows": 6,
+                "insertedRows": 6,
+                "size": 16384
+            },
+            "wp9s_wc_customer_lookup": {
+                "inaccurateRows": 69,
+                "insertedRows": 384,
+                "size": 49152
+            },
+            "wp9s_wc_download_log": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wp9s_wc_orders": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 131072
+            },
+            "wp9s_wc_orders_meta": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wp9s_wc_order_addresses": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 81920
+            },
+            "wp9s_wc_order_coupon_lookup": {
+                "inaccurateRows": 18,
+                "insertedRows": 27,
+                "size": 49152
+            },
+            "wp9s_wc_order_operational_data": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wp9s_wc_order_product_lookup": {
+                "inaccurateRows": 114,
+                "insertedRows": 538,
+                "size": 81920
+            },
+            "wp9s_wc_order_stats": {
+                "inaccurateRows": 108,
+                "insertedRows": 511,
+                "size": 65536
+            },
+            "wp9s_wc_order_tax_lookup": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wp9s_wc_product_attributes_lookup": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "wp9s_wc_product_download_directories": {
+                "inaccurateRows": 2,
+                "insertedRows": 2,
+                "size": 32768
+            },
+            "wp9s_wc_product_meta_lookup": {
+                "inaccurateRows": 9,
+                "insertedRows": 9,
+                "size": 114688
+            },
+            "wp9s_wc_rate_limits": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "wp9s_wc_reserved_stock": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 16384
+            },
+            "wp9s_wc_tax_rate_classes": {
+                "inaccurateRows": 2,
+                "insertedRows": 2,
+                "size": 32768
+            },
+            "wp9s_wc_webhooks": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "wp9s_woocommerce_api_keys": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wp9s_woocommerce_attribute_taxonomies": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "wp9s_woocommerce_downloadable_product_permissions": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 81920
+            },
+            "wp9s_woocommerce_log": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "wp9s_woocommerce_order_itemmeta": {
+                "inaccurateRows": 1078,
+                "insertedRows": 4978,
+                "size": 196608
+            },
+            "wp9s_woocommerce_order_items": {
+                "inaccurateRows": 126,
+                "insertedRows": 565,
+                "size": 32768
+            },
+            "wp9s_woocommerce_payment_tokenmeta": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wp9s_woocommerce_payment_tokens": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "wp9s_woocommerce_sessions": {
+                "inaccurateRows": 26,
+                "insertedRows": 26,
+                "size": 81920
+            },
+            "wp9s_woocommerce_shipping_zones": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 16384
+            },
+            "wp9s_woocommerce_shipping_zone_locations": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wp9s_woocommerce_shipping_zone_methods": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 16384
+            },
+            "wp9s_woocommerce_tax_rates": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 81920
+            },
+            "wp9s_woocommerce_tax_rate_locations": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wp9s_wpmailsmtp_debug_events": {
+                "inaccurateRows": 84,
+                "insertedRows": 260,
+                "size": 49152
+            },
+            "wp9s_wpmailsmtp_tasks_meta": {
+                "inaccurateRows": 0,
+                "insertedRows": 1,
+                "size": 16384
+            },
+            "wp9s_yoast_indexable": {
+                "inaccurateRows": 761,
+                "insertedRows": 806,
+                "size": 671744
+            },
+            "wp9s_yoast_indexable_hierarchy": {
+                "inaccurateRows": 757,
+                "insertedRows": 805,
+                "size": 114688
+            },
+            "wp9s_yoast_migrations": {
+                "inaccurateRows": 23,
+                "insertedRows": 24,
+                "size": 32768
+            },
+            "wp9s_yoast_primary_term": {
+                "inaccurateRows": 49,
+                "insertedRows": 48,
+                "size": 49152
+            },
+            "wp9s_yoast_seo_links": {
+                "inaccurateRows": 261,
+                "insertedRows": 255,
+                "size": 81920
+            }
+        },
+        "lowerCaseTableNames": 0,
+        "dbEngine": "MariaDB",
+        "version": "10.3.35",
+        "versionComment": "MariaDB Server",
+        "viewCount": 0,
+        "procCount": 0,
+        "funcCount": 0,
+        "triggerList": []
+    },
+    "packInfo": {
+        "packageId": 1,
+        "packageName": "20240131_dryneedlingromania",
+        "packageHash": "94bc57d-31093223",
+        "secondaryHash": "0ef79e4-31093223"
+    },
+    "fileInfo": {
+        "dirCount": 6546,
+        "fileCount": 42007,
+        "size": 523982078
+    },
+    "wpInfo": {
+        "version": "6.4.3",
+        "is_multisite": false,
+        "network_id": 1,
+        "targetRoot": "\/home\/r104848dryn\/public_html",
+        "targetPaths": [
+            "\/home\/r104848dryn\/public_html"
+        ],
+        "adminUsers": [
+            {
+                "ID": "15",
+                "user_login": "alexmazareanu",
+                "id": "15"
+            },
+            {
+                "ID": "456",
+                "user_login": "teodor",
+                "id": "456"
+            },
+            {
+                "ID": "477",
+                "user_login": "Vlad Bulete",
+                "id": "477"
+            }
+        ],
+        "configs": {
+            "defines": {
+                "ABSPATH": {
+                    "value": "\/home\/r104848dryn\/public_html\/",
+                    "inWpConfig": true
+                },
+                "DB_CHARSET": {
+                    "value": "utf8mb4",
+                    "inWpConfig": true
+                },
+                "DB_COLLATE": {
+                    "value": "",
+                    "inWpConfig": true
+                },
+                "AUTH_KEY": {
+                    "value": "oyp5p8ugz0ynr69fjaejlpvcu4zinsujqaez4gowkl0checxpzcdvpuviqezhiii",
+                    "inWpConfig": true
+                },
+                "SECURE_AUTH_KEY": {
+                    "value": "vzv6woadksvki9ar7vcc5292krv7ieub56ym1p9vb2jdjgho0lpj0luyuc7pwdpl",
+                    "inWpConfig": true
+                },
+                "LOGGED_IN_KEY": {
+                    "value": "z79pc8im3yp4e7wwi9toeymhqgy97y2ucvvfqfu6j8wvskycg4vu3uob5aonhbwr",
+                    "inWpConfig": true
+                },
+                "NONCE_KEY": {
+                    "value": "ayy8dmq9bkl2qmjtpti3gn2w8oewwmnwq9dgbvobdkgeqz7fxcy2kdr9eg8d65rk",
+                    "inWpConfig": true
+                },
+                "AUTH_SALT": {
+                    "value": "dvcfcs2s44jegkag6laan7kvwpqi0kv7nqnj9ohlfpmhhhcidgw8wbhzdljgk8qo",
+                    "inWpConfig": true
+                },
+                "SECURE_AUTH_SALT": {
+                    "value": "krf7ujisogirijslulxclkfknjna5jwdrofx8d7scmsyq6p9azxla7g6i6mzgipu",
+                    "inWpConfig": true
+                },
+                "LOGGED_IN_SALT": {
+                    "value": "rp5lm4azggw42qaleqkbqvhm4pm9wkvbnyfg1f3k1uuaxpkblikosdacx7ezr2mu",
+                    "inWpConfig": true
+                },
+                "NONCE_SALT": {
+                    "value": "jvqchbmaw30x2jnamaselwbr4pll1i0nexxkqn3uomh8nx1k6rsdazganddoopya",
+                    "inWpConfig": true
+                },
+                "WP_CONTENT_DIR": {
+                    "value": "\/home\/r104848dryn\/public_html\/wp-content",
+                    "inWpConfig": false
+                },
+                "WP_CONTENT_URL": {
+                    "value": "https:\/\/dryneedlingromania.ro\/wp-content",
+                    "inWpConfig": false
+                },
+                "WP_PLUGIN_DIR": {
+                    "value": "\/home\/r104848dryn\/public_html\/wp-content\/plugins",
+                    "inWpConfig": false
+                },
+                "WP_PLUGIN_URL": {
+                    "value": "https:\/\/dryneedlingromania.ro\/wp-content\/plugins",
+                    "inWpConfig": false
+                },
+                "PLUGINDIR": {
+                    "value": "wp-content\/plugins",
+                    "inWpConfig": false
+                },
+                "AUTOSAVE_INTERVAL": {
+                    "value": 60,
+                    "inWpConfig": false
+                },
+                "WP_POST_REVISIONS": {
+                    "value": true,
+                    "inWpConfig": false
+                },
+                "COOKIE_DOMAIN": {
+                    "value": false,
+                    "inWpConfig": false
+                },
+                "MULTISITE": {
+                    "value": false,
+                    "inWpConfig": false
+                },
+                "WP_DEBUG": {
+                    "value": false,
+                    "inWpConfig": true
+                },
+                "SCRIPT_DEBUG": {
+                    "value": false,
+                    "inWpConfig": false
+                },
+                "WP_DEBUG_LOG": {
+                    "value": false,
+                    "inWpConfig": false
+                },
+                "WP_DEBUG_DISPLAY": {
+                    "value": true,
+                    "inWpConfig": false
+                },
+                "WP_MEMORY_LIMIT": {
+                    "value": "40M",
+                    "inWpConfig": false
+                },
+                "WP_MAX_MEMORY_LIMIT": {
+                    "value": "2048M",
+                    "inWpConfig": false
+                },
+                "WP_CACHE": {
+                    "value": false,
+                    "inWpConfig": false
+                },
+                "WP_LANG_DIR": {
+                    "value": "\/home\/r104848dryn\/public_html\/wp-content\/languages",
+                    "inWpConfig": false
+                },
+                "WP_CRON_LOCK_TIMEOUT": {
+                    "value": 60,
+                    "inWpConfig": false
+                },
+                "COOKIEPATH": {
+                    "value": "\/",
+                    "inWpConfig": false
+                },
+                "SITECOOKIEPATH": {
+                    "value": "\/",
+                    "inWpConfig": false
+                },
+                "ADMIN_COOKIE_PATH": {
+                    "value": "\/wp-admin",
+                    "inWpConfig": false
+                },
+                "PLUGINS_COOKIE_PATH": {
+                    "value": "\/wp-content\/plugins",
+                    "inWpConfig": false
+                },
+                "TEMPLATEPATH": {
+                    "value": "\/home\/r104848dryn\/public_html\/wp-content\/themes\/eduma",
+                    "inWpConfig": false
+                },
+                "STYLESHEETPATH": {
+                    "value": "\/home\/r104848dryn\/public_html\/wp-content\/themes\/eduma",
+                    "inWpConfig": false
+                },
+                "EMPTY_TRASH_DAYS": {
+                    "value": 30,
+                    "inWpConfig": false
+                },
+                "FORCE_SSL_ADMIN": {
+                    "value": true,
+                    "inWpConfig": false
+                },
+                "WPMU_PLUGIN_DIR": {
+                    "value": "\/home\/r104848dryn\/public_html\/wp-content\/mu-plugins",
+                    "inWpConfig": false
+                },
+                "WPMU_PLUGIN_URL": {
+                    "value": "https:\/\/dryneedlingromania.ro\/wp-content\/mu-plugins",
+                    "inWpConfig": false
+                },
+                "MUPLUGINDIR": {
+                    "value": "wp-content\/mu-plugins",
+                    "inWpConfig": false
+                }
+            },
+            "realValues": {
+                "siteUrl": "https:\/\/dryneedlingromania.ro",
+                "homeUrl": "https:\/\/dryneedlingromania.ro",
+                "loginUrl": "https:\/\/dryneedlingromania.ro\/wp-login.php",
+                "contentUrl": "https:\/\/dryneedlingromania.ro\/wp-content",
+                "uploadBaseUrl": "https:\/\/dryneedlingromania.ro\/wp-content\/uploads",
+                "pluginsUrl": "https:\/\/dryneedlingromania.ro\/wp-content\/plugins",
+                "mupluginsUrl": "https:\/\/dryneedlingromania.ro\/wp-content\/mu-plugins",
+                "themesUrl": "https:\/\/dryneedlingromania.ro\/wp-content\/themes",
+                "originalPaths": {
+                    "home": "\/home\/r104848dryn\/public_html",
+                    "abs": "\/home\/r104848dryn\/public_html",
+                    "wpconfig": "\/home\/r104848dryn\/public_html",
+                    "wpcontent": "\/home\/r104848dryn\/public_html\/wp-content",
+                    "uploads": "\/home\/r104848dryn\/public_html\/wp-content\/uploads",
+                    "plugins": "\/home\/r104848dryn\/public_html\/wp-content\/plugins",
+                    "muplugins": "\/home\/r104848dryn\/public_html\/wp-content\/mu-plugins",
+                    "themes": "\/home\/r104848dryn\/public_html\/wp-content\/themes"
+                },
+                "archivePaths": {
+                    "home": "\/home\/r104848dryn\/public_html",
+                    "abs": "\/home\/r104848dryn\/public_html",
+                    "wpconfig": "\/home\/r104848dryn\/public_html",
+                    "wpcontent": "\/home\/r104848dryn\/public_html\/wp-content",
+                    "uploads": "\/home\/r104848dryn\/public_html\/wp-content\/uploads",
+                    "plugins": "\/home\/r104848dryn\/public_html\/wp-content\/plugins",
+                    "muplugins": "\/home\/r104848dryn\/public_html\/wp-content\/mu-plugins",
+                    "themes": "\/home\/r104848dryn\/public_html\/wp-content\/themes"
+                }
+            }
+        },
+        "plugins": {
+            "contact-form-7\/wp-contact-form-7.php": {
+                "slug": "contact-form-7\/wp-contact-form-7.php",
+                "name": "Contact Form 7",
+                "version": "5.8",
+                "pluginURI": "https:\/\/contactform7.com\/",
+                "author": "Takayuki Miyoshi",
+                "authorURI": "https:\/\/ideasilo.wordpress.com\/",
+                "description": "Just another contact form plugin. Simple but flexible.",
+                "title": "Contact Form 7",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "disable-comments\/disable-comments.php": {
+                "slug": "disable-comments\/disable-comments.php",
+                "name": "Disable Comments",
+                "version": "2.4.5",
+                "pluginURI": "https:\/\/wordpress.org\/plugins\/disable-comments\/",
+                "author": "WPDeveloper",
+                "authorURI": "https:\/\/wpdeveloper.com",
+                "description": "Allows administrators to globally disable comments on their site. Comments can be disabled according to post type. You could bulk delete comments using Tools.",
+                "title": "Disable Comments",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "duplicate-page\/duplicatepage.php": {
+                "slug": "duplicate-page\/duplicatepage.php",
+                "name": "Duplicate Page",
+                "version": "4.5.3",
+                "pluginURI": "https:\/\/wordpress.org\/plugins\/duplicate-page\/",
+                "author": "mndpsingh287",
+                "authorURI": "https:\/\/profiles.wordpress.org\/mndpsingh287\/",
+                "description": "Duplicate Posts, Pages and Custom Posts using single click.",
+                "title": "Duplicate Page",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "duplicator\/duplicator.php": {
+                "slug": "duplicator\/duplicator.php",
+                "name": "Duplicator",
+                "version": "1.5.8",
+                "pluginURI": "https:\/\/duplicator.com\/",
+                "author": "Duplicator",
+                "authorURI": "https:\/\/duplicator.com\/",
+                "description": "Migrate and backup a copy of your WordPress files and database. Duplicate and move a site from one location to another quickly.",
+                "title": "Duplicator",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "elementor\/elementor.php": {
+                "slug": "elementor\/elementor.php",
+                "name": "Elementor",
+                "version": "3.16.4",
+                "pluginURI": "https:\/\/elementor.com\/?utm_source=wp-plugins&utm_campaign=plugin-uri&utm_medium=wp-dash",
+                "author": "Elementor.com",
+                "authorURI": "https:\/\/elementor.com\/?utm_source=wp-plugins&utm_campaign=author-uri&utm_medium=wp-dash",
+                "description": "The Elementor Website Builder has it all: drag and drop page builder, pixel perfect design, mobile responsive editing, and more. Get started now!",
+                "title": "Elementor",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "facturare-persoana-fizica-sau-juridica\/facturare.php": {
+                "slug": "facturare-persoana-fizica-sau-juridica\/facturare.php",
+                "name": "Facturare - Persoana Fizica sau Juridica",
+                "version": "1.1.3",
+                "pluginURI": "https:\/\/facturare.georgeciobanu.com",
+                "author": "Avian Studio",
+                "authorURI": "https:\/\/avianstudio.com\/",
+                "description": "Adaug\u0103 c\u00e2mpurile necesare factur\u0103rii persoanelor fizice sau juridice conform legisla\u021biei din Romania \u00een vigoare.",
+                "title": "Facturare - Persoana Fizica sau Juridica",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "gtranslate\/gtranslate.php": {
+                "slug": "gtranslate\/gtranslate.php",
+                "name": "GTranslate",
+                "version": "3.0.4",
+                "pluginURI": "https:\/\/gtranslate.io\/?xyz=998",
+                "author": "Translate AI Multilingual Solutions",
+                "authorURI": "https:\/\/gtranslate.io",
+                "description": "Translate your website and make it multilingual. For support visit <a href=\"https:\/\/wordpress.org\/support\/plugin\/gtranslate\">GTranslate Support Forum<\/a>.",
+                "title": "GTranslate",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "learnpress\/learnpress.php": {
+                "slug": "learnpress\/learnpress.php",
+                "name": "LearnPress",
+                "version": "4.2.3.6",
+                "pluginURI": "http:\/\/thimpress.com\/learnpress",
+                "author": "ThimPress",
+                "authorURI": "http:\/\/thimpress.com",
+                "description": "LearnPress is a WordPress complete solution for creating a Learning Management System (LMS). It can help you to create courses, lessons and quizzes.",
+                "title": "LearnPress",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "learnpress-woo-payment\/learnpress-woo-payment.php": {
+                "slug": "learnpress-woo-payment\/learnpress-woo-payment.php",
+                "name": "LearnPress - WooCommerce Payment Methods Integration",
+                "version": "4.0.9",
+                "pluginURI": "https:\/\/thimpress.com\/product\/woocommerce-add-on-for-learnpress\/",
+                "author": "ThimPress",
+                "authorURI": "http:\/\/thimpress.com",
+                "description": "By courses via Woocommerce.",
+                "title": "LearnPress - WooCommerce Payment Methods Integration",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "loco-translate\/loco.php": {
+                "slug": "loco-translate\/loco.php",
+                "name": "Loco Translate",
+                "version": "2.6.6",
+                "pluginURI": "https:\/\/wordpress.org\/plugins\/loco-translate\/",
+                "author": "Tim Whitlock",
+                "authorURI": "https:\/\/localise.biz\/wordpress\/plugin",
+                "description": "Translate themes and plugins directly in WordPress",
+                "title": "Loco Translate",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "netopia-payments-payment-gateway\/netopiapayments.php": {
+                "slug": "netopia-payments-payment-gateway\/netopiapayments.php",
+                "name": "NETOPIA Payments Payment Gateway",
+                "version": "1.3",
+                "pluginURI": "https:\/\/www.netopia-payments.ro",
+                "author": "Netopia",
+                "authorURI": "",
+                "description": "accept payments through NETOPIA Payments",
+                "title": "NETOPIA Payments Payment Gateway",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "pro-elements\/pro-elements.php": {
+                "slug": "pro-elements\/pro-elements.php",
+                "name": "PRO Elements",
+                "version": "3.15.1",
+                "pluginURI": "https:\/\/proelements.org\/",
+                "author": "PROElements.org",
+                "authorURI": "https:\/\/proelements.org\/",
+                "description": "This plugin enables GPL features of Elementor Pro: widgets, theme builder, dynamic colors & content, forms & popup builder, and more. Note that PRO Elements is not a substitute for Elementor Pro. If you need all Elementor Pro features, including access to pro templates library and dedicated support, we encourage you to <a href=\"https:\/\/elementor.com\/pro\/\" target=\"_blank\">purchase Elementor Pro<\/a>.",
+                "title": "PRO Elements",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "revslider\/revslider.php": {
+                "slug": "revslider\/revslider.php",
+                "name": "Slider Revolution",
+                "version": "6.6.13",
+                "pluginURI": "https:\/\/www.sliderrevolution.com\/",
+                "author": "ThemePunch",
+                "authorURI": "https:\/\/themepunch.com\/",
+                "description": "Slider Revolution - More than just a WordPress Slider",
+                "title": "Slider Revolution",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "the-post-grid\/the-post-grid.php": {
+                "slug": "the-post-grid\/the-post-grid.php",
+                "name": "The Post Grid",
+                "version": "7.2.11",
+                "pluginURI": "https:\/\/www.radiustheme.com\/downloads\/the-post-grid-pro-for-wordpress\/",
+                "author": "RadiusTheme",
+                "authorURI": "https:\/\/radiustheme.com\/",
+                "description": "Fast & Easy way to display WordPress post in Grid, List & Isotope view ( filter by category, tag, author..)  without a single line of coding.",
+                "title": "The Post Grid",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "thim-core\/thim-core.php": {
+                "slug": "thim-core\/thim-core.php",
+                "name": "Thim Core",
+                "version": "2.2.4",
+                "pluginURI": "https:\/\/thimpresswp.github.io\/thim-core\/",
+                "author": "ThimPress",
+                "authorURI": "https:\/\/thimpress.com",
+                "description": "The Ultimate Core Processor of all WordPress themes by ThimPress - Manage your website easier with Thim Core.",
+                "title": "Thim Core",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "thim-elementor-kit\/thim-elementor-kit.php": {
+                "slug": "thim-elementor-kit\/thim-elementor-kit.php",
+                "name": "Thim Elementor Kit",
+                "version": "1.1.7.1",
+                "pluginURI": "",
+                "author": "ThimPress",
+                "authorURI": "http:\/\/thimpress.com",
+                "description": "It is page builder for the Elementor page builder.",
+                "title": "Thim Elementor Kit",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "thim-elementor-kit-pro\/thim-elementor-kit-pro.php": {
+                "slug": "thim-elementor-kit-pro\/thim-elementor-kit-pro.php",
+                "name": "Thim Elementor Kit Pro",
+                "version": "1.0.2",
+                "pluginURI": "",
+                "author": "ThimPress",
+                "authorURI": "http:\/\/thimpress.com",
+                "description": "It is page builder for the Elementor page builder.",
+                "title": "Thim Elementor Kit Pro",
+                "networkActive": false,
+                "active": false,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "woocommerce\/woocommerce.php": {
+                "slug": "woocommerce\/woocommerce.php",
+                "name": "WooCommerce",
+                "version": "8.1.1",
+                "pluginURI": "https:\/\/woocommerce.com\/",
+                "author": "Automattic",
+                "authorURI": "https:\/\/woocommerce.com",
+                "description": "An eCommerce toolkit that helps you sell anything. Beautifully.",
+                "title": "WooCommerce",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "woo-smartbill\/woo-smartbill.php": {
+                "slug": "woo-smartbill\/woo-smartbill.php",
+                "name": "WooCommerce SmartBill",
+                "version": "1.0.0",
+                "pluginURI": "https:\/\/avianstudio.com\/plugin\/woo-smartbill\/",
+                "author": "Ciobanu George",
+                "authorURI": "https:\/\/avianstudio.com\/",
+                "description": "Plugin pentru generarea facturilor Smartbill direct din WooCommerce",
+                "title": "WooCommerce SmartBill",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "wp-events-manager\/wp-events-manager.php": {
+                "slug": "wp-events-manager\/wp-events-manager.php",
+                "name": "WP Events Manager",
+                "version": "2.1.10",
+                "pluginURI": "http:\/\/thimpress.com\/",
+                "author": "ThimPress",
+                "authorURI": "http:\/\/thimpress.com",
+                "description": "A complete plugin for Events management and online booking system",
+                "title": "WP Events Manager",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "wp-events-manager-woocommerce-payment-methods-integration\/wp-events-manager-woocommerce.php": {
+                "slug": "wp-events-manager-woocommerce-payment-methods-integration\/wp-events-manager-woocommerce.php",
+                "name": "WP Events Manager - WooCommerce Payment Methods Integration",
+                "version": "2.0.6",
+                "pluginURI": "",
+                "author": "ThimPress",
+                "authorURI": "http:\/\/thimpress.com\/",
+                "description": "Support paying for a booking with the payment methods provided by Woocommerce",
+                "title": "WP Events Manager - WooCommerce Payment Methods Integration",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "wp-mail-smtp\/wp_mail_smtp.php": {
+                "slug": "wp-mail-smtp\/wp_mail_smtp.php",
+                "name": "WP Mail SMTP",
+                "version": "3.9.0",
+                "pluginURI": "https:\/\/wpmailsmtp.com\/",
+                "author": "WP Mail SMTP",
+                "authorURI": "https:\/\/wpmailsmtp.com\/",
+                "description": "Reconfigures the <code>wp_mail()<\/code> function to use Gmail\/Mailgun\/SendGrid\/SMTP instead of the default <code>mail()<\/code> and creates an options page to manage the settings.",
+                "title": "WP Mail SMTP",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "wp-rollback\/wp-rollback.php": {
+                "slug": "wp-rollback\/wp-rollback.php",
+                "name": "WP Rollback",
+                "version": "1.7.3",
+                "pluginURI": "https:\/\/givewp.com\/",
+                "author": "GiveWP.com",
+                "authorURI": "https:\/\/givewp.com\/",
+                "description": "Rollback (or forward) any WordPress.org plugin or theme like a boss.",
+                "title": "WP Rollback",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "wordpress-seo\/wp-seo.php": {
+                "slug": "wordpress-seo\/wp-seo.php",
+                "name": "Yoast SEO",
+                "version": "21.2",
+                "pluginURI": "https:\/\/yoa.st\/1uj",
+                "author": "Team Yoast",
+                "authorURI": "https:\/\/yoa.st\/1uk",
+                "description": "The first true all-in-one SEO solution for WordPress, including on-page content analysis, XML sitemaps and much more.",
+                "title": "Yoast SEO",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "elementor-safe-mode.php": {
+                "slug": "elementor-safe-mode.php",
+                "name": "Elementor Safe Mode",
+                "version": "1.0.0",
+                "pluginURI": "https:\/\/elementor.com\/?utm_source=safe-mode&utm_campaign=plugin-uri&utm_medium=wp-dash",
+                "author": "Elementor.com",
+                "authorURI": "https:\/\/elementor.com\/?utm_source=safe-mode&utm_campaign=author-uri&utm_medium=wp-dash",
+                "description": "Safe Mode allows you to troubleshoot issues by only loading the editor, without loading the theme or any other plugin.",
+                "title": "Elementor Safe Mode",
+                "networkActive": false,
+                "active": false,
+                "mustUse": true,
+                "dropIns": false
+            }
+        },
+        "themes": {
+            "eduma": {
+                "slug": "eduma",
+                "themeName": "Eduma",
+                "version": "5.2.7",
+                "themeURI": "https:\/\/eduma.thimpress.com\/",
+                "parentTheme": false,
+                "template": "eduma",
+                "stylesheet": "eduma",
+                "description": "Premium Online LMS &amp; Education WordPress Theme.",
+                "author": "ThimPress",
+                "authorURI": "https:\/\/thimpress.com",
+                "tags": [
+                    "two-columns",
+                    "three-columns",
+                    "left-sidebar",
+                    "right-sidebar",
+                    "custom-background",
+                    "custom-header",
+                    "custom-menu",
+                    "editor-style",
+                    "post-formats",
+                    "rtl-language-support",
+                    "sticky-post",
+                    "theme-options",
+                    "translation-ready",
+                    "accessibility-ready"
+                ],
+                "isAllowed": true,
+                "isActive": true,
+                "defaultTheme": false
+            },
+            "twentytwenty": {
+                "slug": "twentytwenty",
+                "themeName": "Twenty Twenty",
+                "version": "2.1",
+                "themeURI": "https:\/\/wordpress.org\/themes\/twentytwenty\/",
+                "parentTheme": false,
+                "template": "twentytwenty",
+                "stylesheet": "twentytwenty",
+                "description": "Our default theme for 2020 is designed to take full advantage of the flexibility of the block editor. Organizations and businesses have the ability to create dynamic landing pages with endless layouts using the group and column blocks. The centered content column and fine-tuned typography also makes it perfect for traditional blogs. Complete editor styles give you a good idea of what your content will look like, even before you publish. You can give your site a personal touch by changing the background colors and the accent color in the Customizer. The colors of all elements on your site are automatically calculated based on the colors you pick, ensuring a high, accessible color contrast for your visitors.",
+                "author": "the WordPress team",
+                "authorURI": "https:\/\/wordpress.org\/",
+                "tags": [
+                    "blog",
+                    "one-column",
+                    "custom-background",
+                    "custom-colors",
+                    "custom-logo",
+                    "custom-menu",
+                    "editor-style",
+                    "featured-images",
+                    "footer-widgets",
+                    "full-width-template",
+                    "rtl-language-support",
+                    "sticky-post",
+                    "theme-options",
+                    "threaded-comments",
+                    "translation-ready",
+                    "block-patterns",
+                    "block-styles",
+                    "wide-blocks",
+                    "accessibility-ready"
+                ],
+                "isAllowed": true,
+                "isActive": false,
+                "defaultTheme": false
+            },
+            "twentytwentyfour": {
+                "slug": "twentytwentyfour",
+                "themeName": "Twenty Twenty-Four",
+                "version": "1.0",
+                "themeURI": "https:\/\/wordpress.org\/themes\/twentytwentyfour\/",
+                "parentTheme": false,
+                "template": "twentytwentyfour",
+                "stylesheet": "twentytwentyfour",
+                "description": "Twenty Twenty-Four is designed to be flexible, versatile and applicable to any website. Its collection of templates and patterns tailor to different needs, such as presenting a business, blogging and writing or showcasing work. A multitude of possibilities open up with just a few adjustments to color and typography. Twenty Twenty-Four comes with style variations and full page designs to help speed up the site building process, is fully compatible with the site editor, and takes advantage of new design tools introduced in WordPress 6.4.",
+                "author": "the WordPress team",
+                "authorURI": "https:\/\/wordpress.org",
+                "tags": [
+                    "one-column",
+                    "custom-colors",
+                    "custom-menu",
+                    "custom-logo",
+                    "editor-style",
+                    "featured-images",
+                    "full-site-editing",
+                    "block-patterns",
+                    "rtl-language-support",
+                    "sticky-post",
+                    "threaded-comments",
+                    "translation-ready",
+                    "wide-blocks",
+                    "block-styles",
+                    "style-variations",
+                    "accessibility-ready",
+                    "blog",
+                    "portfolio",
+                    "news"
+                ],
+                "isAllowed": true,
+                "isActive": false,
+                "defaultTheme": true
+            },
+            "twentytwentyone": {
+                "slug": "twentytwentyone",
+                "themeName": "Twenty Twenty-One",
+                "version": "1.7",
+                "themeURI": "https:\/\/wordpress.org\/themes\/twentytwentyone\/",
+                "parentTheme": false,
+                "template": "twentytwentyone",
+                "stylesheet": "twentytwentyone",
+                "description": "Twenty Twenty-One is a blank canvas for your ideas and it makes the block editor your best brush. With new block patterns, which allow you to create a beautiful layout in a matter of seconds, this theme\u2019s soft colors and eye-catching \u2014 yet timeless \u2014 design will let your work shine. Take it for a spin! See how Twenty Twenty-One elevates your portfolio, business website, or personal blog.",
+                "author": "the WordPress team",
+                "authorURI": "https:\/\/wordpress.org\/",
+                "tags": [
+                    "one-column",
+                    "accessibility-ready",
+                    "custom-colors",
+                    "custom-menu",
+                    "custom-logo",
+                    "editor-style",
+                    "featured-images",
+                    "footer-widgets",
+                    "block-patterns",
+                    "rtl-language-support",
+                    "sticky-post",
+                    "threaded-comments",
+                    "translation-ready"
+                ],
+                "isAllowed": true,
+                "isActive": false,
+                "defaultTheme": false
+            },
+            "twentytwentythree": {
+                "slug": "twentytwentythree",
+                "themeName": "Twenty Twenty-Three",
+                "version": "1.0",
+                "themeURI": "https:\/\/wordpress.org\/themes\/twentytwentythree",
+                "parentTheme": false,
+                "template": "twentytwentythree",
+                "stylesheet": "twentytwentythree",
+                "description": "Twenty Twenty-Three is designed to take advantage of the new design tools introduced in WordPress 6.1. With a clean, blank base as a starting point, this default theme includes ten diverse style variations created by members of the WordPress community. Whether you want to build a complex or incredibly simple website, you can do it quickly and intuitively through the bundled styles or dive into creation and full customization yourself.",
+                "author": "the WordPress team",
+                "authorURI": "https:\/\/wordpress.org",
+                "tags": [
+                    "one-column",
+                    "custom-colors",
+                    "custom-menu",
+                    "custom-logo",
+                    "editor-style",
+                    "featured-images",
+                    "full-site-editing",
+                    "block-patterns",
+                    "rtl-language-support",
+                    "sticky-post",
+                    "threaded-comments",
+                    "translation-ready",
+                    "wide-blocks",
+                    "block-styles",
+                    "accessibility-ready",
+                    "blog",
+                    "portfolio",
+                    "news"
+                ],
+                "isAllowed": true,
+                "isActive": false,
+                "defaultTheme": false
+            },
+            "twentytwentytwo": {
+                "slug": "twentytwentytwo",
+                "themeName": "Twenty Twenty-Two",
+                "version": "1.3",
+                "themeURI": "https:\/\/wordpress.org\/themes\/twentytwentytwo\/",
+                "parentTheme": false,
+                "template": "twentytwentytwo",
+                "stylesheet": "twentytwentytwo",
+                "description": "Built on a solidly designed foundation, Twenty Twenty-Two embraces the idea that everyone deserves a truly unique website. The theme\u2019s subtle styles are inspired by the diversity and versatility of birds: its typography is lightweight yet strong, its color palette is drawn from nature, and its layout elements sit gently on the page. The true richness of Twenty Twenty-Two lies in its opportunity for customization. The theme is built to take advantage of the Full Site Editing features introduced in WordPress 5.9, which means that colors, typography, and the layout of every single page on your site can be customized to suit your vision. It also includes dozens of block patterns, opening the door to a wide range of professionally designed layouts in just a few clicks. Whether you\u2019re building a single-page website, a blog, a business website, or a portfolio, Twenty Twenty-Two will help you create a site that is uniquely yours.",
+                "author": "the WordPress team",
+                "authorURI": "https:\/\/wordpress.org\/",
+                "tags": [
+                    "one-column",
+                    "custom-colors",
+                    "custom-menu",
+                    "custom-logo",
+                    "editor-style",
+                    "featured-images",
+                    "full-site-editing",
+                    "block-patterns",
+                    "rtl-language-support",
+                    "sticky-post",
+                    "threaded-comments",
+                    "accessibility-ready"
+                ],
+                "isAllowed": true,
+                "isActive": false,
+                "defaultTheme": false
+            }
+        }
+    },
+    "defaultStorageId": -1,
+    "components": [
+        "package_component_db",
+        "package_component_core",
+        "package_component_plugins",
+        "package_component_themes",
+        "package_component_uploads",
+        "package_component_other"
+    ],
+    "opts_delete": "[\"duplicator_ui_view_state\",\"duplicator_package_active\",\"duplicator_settings\",\"duplicator_is_pro_enable_notice_dismissed\"]",
+    "brand": {
+        "name": "Duplicator",
+        "isDefault": true,
+        "logo": "<i class=\"fa fa-bolt fa-sm\"><\/i> Duplicator",
+        "enabled": false,
+        "style": []
+    },
+    "overwriteInstallerParams": {
+        "blogname": {
+            "value": "Dry Needling Romania"
+        }
+    },
+    "installer_base_name": "installer.php.bak",
+    "installer_backup_name": "20240131_dryneedlingromania_94bc57d01f2470ef3142_20240131093223_installer-backup.php",
+    "package_name": "20240131_dryneedlingromania_94bc57d01f2470ef3142_20240131093223_archive.zip",
+    "package_hash": "94bc57d-31093223",
+    "package_notes": ""
+}
